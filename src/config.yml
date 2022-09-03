@@ -1,0 +1,14 @@
+settings:
+  enabled: true
+
+msgs:
+  only_players: "&4Only players can use this command!"
+  elytra_first_pickup: "&6Elytra has been assigned to you"
+  elytra_pickup_not_owner: "&4Elytra does not belong to you! &7This is {OWNERNAME}'s elytra"
+  no_item_in_hand: "&4You don't have item in your main hand!"
+  item_is_not_elytra: "&4Item is not elytra!"
+  invalid_usage: "&4Invalid usage!"
+  transfer_to_yourself: "&4You cannot transfer Elytra to yourself!"
+  successful_transfer: "&6Elytra is now moved to {TARGET}!"
+  successful_transfer_online_player: "&6Player {NICK} transfered Elytra to you!"
+  player_is_offline: "&4Player is offline!"

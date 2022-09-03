@@ -1,0 +1,10 @@
+name: Najlek-ElytraProtection
+version: 1.0
+description: simple plugin to protect elytra
+author: Najlek
+website: httos://www.najlek.pl
+api-version: 1.19
+main: xyz.najlek.elytraprotection.Bootstrap
+commands:
+  elytra:
+    description: Manage elytra
